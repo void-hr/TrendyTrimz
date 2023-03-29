@@ -1,7 +1,10 @@
-import React from 'react';
+import { useContext, createContext } from "react";
+import Sidebar from "../components/Sidebar";
+//create context
+export const SidebarContext = createContext();
 
-const SidebarContext = () => {
-  return <div>SidebarContext</div>;
+const SidebarProvider = ({ children }) => {
+  return <SidebarContext.Provider>SidebarProvider</SidebarContext.Provider>;
 };
 
-export default SidebarContext;
+export default SidebarProvider;
