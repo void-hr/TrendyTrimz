@@ -46,7 +46,7 @@ Feel free to update the installation, usage, contributing, and license sections 
 
 I hope this helps! Let me know if you need any further assistance. 
 
-FORK, CLONE, STARRED, FOLLOW FOR MORE
+FORK, CLONE, STAR THE REPO & FOLLOW FOR MORE
 
 
 ~void-hr
