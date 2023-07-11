@@ -5,11 +5,11 @@ This is a minimalist fashion shopping web app built using React.js and Tailwind 
 
 Features
     
-    Browse a wide range of fashion items.
-    Add items to the cart and manage selections.
-    Responsive design for optimal viewing on different devices.
-    Utilizes the Fake Store API for realistic product data.
-    Built with React.js and styled with Tailwind CSS for efficient development and a clean UI.
+  - [x]  Browse a wide range of fashion items.
+  - [x]   Add items to the cart and manage selections.
+  - [x]   Responsive design for optimal viewing on different devices.
+  - [x]   Utilizes the Fake Store API for realistic product data.
+  - [x]   Built with React.js and styled with Tailwind CSS for efficient development and a clean UI.
 
 Installation
     Clone the repository:
@@ -30,9 +30,9 @@ Open the web app in your browser:
 
 Usage
 
-    Browse through the available fashion items and click on an item to view more details.
-    Add items to the cart by selecting the desired quantity.
-    Manage your cart by adjusting quantities or removing items.
+ - [x]  Browse through the available fashion items and click on an item to view more details.
+ - [x]  Add items to the cart by selecting the desired quantity.
+ - [x]  Manage your cart by adjusting quantities or removing items.
     
 
 Contributing
