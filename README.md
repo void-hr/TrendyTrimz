@@ -11,6 +11,8 @@ Features
   - [x]   Utilizes the Fake Store API for realistic product data.
   - [x]   Built with React.js and styled with Tailwind CSS for efficient development and a clean UI.
 
+![TrendyTrimz](https://github.com/void-hr/TrendyTrimz/blob/main/public/Rectangle%2022.png)
+
 Installation
     Clone the repository:
  
